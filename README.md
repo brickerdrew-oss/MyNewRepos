@@ -1,25 +1,15 @@
 # MyNewRespo
 
-
 mycourse/
 │
-├── index.html         <-- Home page
-│
+├── index.html
 ├── chapter2/
-│   ├── index.html     <-- Chapter 2 main page
-│   ├── hop/
-│   │   └── hop1.html
-│   └── assignment/
-│       └── assignment1.html
-│
+│   ├── index.html
+│   ├── hop/hop1.html
+│   └── assignment/assignment1.html
 ├── chapter3/
-│   ├── index.html     <-- Chapter 3 main page
-│   ├── hop/
-│   │   ├── hop1.html
-│   │   └── hop2.html
-│   └── assignment/
-│       └── assignment1.html
-│
-└── project/
-    └── index.html
-
+│   ├── index.html
+│   ├── hop/hop1.html
+│   ├── hop/hop2.html
+│   └── assignment/assignment1.html
+└── project/index.html
